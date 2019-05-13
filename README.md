@@ -1,3 +1,3 @@
-# dynamo_query_tool
+# dyol
 
 ##
